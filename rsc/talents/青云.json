@@ -1,0 +1,44 @@
+{
+    "talent" : 
+    [
+        {
+            "id" : 90000,
+            "school" : "青云",
+            "name" : "雷青云通用天书(1)",
+            "critical_percent" : 2,
+            "recharge_percent" : 2,
+            "specialize_percent" : 0,
+            "peneration_percent" : 0
+        },
+
+        {
+            "id" : 90001,
+            "school" : "青云",
+            "name" : "雷青云通用天书(2)",
+            "critical_percent" : 2,
+            "recharge_percent" : 2,
+            "specialize_percent" : 0,
+            "peneration_percent" : 0
+        },
+
+        {
+            "id" : 90002,
+            "school" : "青云",
+            "name" : "剑青云通用天书(1)",
+            "critical_percent" : 8,
+            "recharge_percent" : 4,
+            "specialize_percent" : 0,
+            "peneration_percent" : 0
+        },
+
+        {
+            "id" : 90003,
+            "school" : "青云",
+            "name" : "剑青云通用天书(2)",
+            "critical_percent" : 8,
+            "recharge_percent" : 8,
+            "specialize_percent" : 0,
+            "peneration_percent" : 0
+        }
+    ]
+}

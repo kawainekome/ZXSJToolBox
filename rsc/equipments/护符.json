@@ -1,0 +1,159 @@
+{
+    "equipments" : [
+        {
+            "id" : 10000,
+            "name" : "煞气血影",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 63,
+            "accuracy" : 147
+        },
+
+        {
+            "id" : 10001,
+            "name" : "乱世曼舞",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 0,
+            "recharge" : 147,
+            "specialize" : 63,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 10002,
+            "name" : "赤魔亡魂",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 63,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 147
+        },
+
+        {
+            "id" : 10003,
+            "name" : "嗜血噬心",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 0,
+            "recharge" : 147,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 63
+        },
+
+        {
+            "id" : 10004,
+            "name" : "碧水秀心",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 161,
+            "penetration" : 0,
+            "accuracy" : 69
+        },
+
+        {
+            "id" : 10005,
+            "name" : "云峰独照",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 403,
+            "critical" : 69,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 161,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 10006,
+            "name" : "幽海通玄",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 207,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 23,
+            "extra_effect" : "天魁"
+        },
+
+        {
+            "id" : 10007,
+            "name" : "幽树凋霜",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 0,
+            "recharge" : 161,
+            "specialize" : 0,
+            "penetration" : 69,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 10008,
+            "name" : "碧麟幽瞳",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 161,
+            "recharge" : 0,
+            "specialize" : 69,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 10009,
+            "name" : "龙蛇逸翔",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 161,
+            "penetration" : 69,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 10010,
+            "name" : "九州姝同",
+            "type" : "护符",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 136,
+            "recharge" : 0,
+            "specialize" : 74,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "九州姝同305效果"
+        }
+    ]
+}

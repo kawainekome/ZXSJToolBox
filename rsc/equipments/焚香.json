@@ -1,0 +1,408 @@
+{
+    "equipments" : [
+        {
+            "id":5000,
+            "name" : "桑约之佩·玄",
+            "type" : "手部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 43,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0 ,
+            "accuracy" : 103,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":5001,
+            "name" : "桑约之佩·玄",
+            "type" : "手部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 103,
+            "penetration" : 0,
+            "accuracy" : 43,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":5002,
+            "name" : "桑约之系·玄",
+            "type" : "腰部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 43,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 103,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":5003,
+            "name" : "桑约之系·玄",
+            "type" : "腰部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 43,
+            "penetration" :103,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":5004,
+            "name" : "桑约之履·玄",
+            "type" : "脚部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 133,
+            "penetration" : 0,
+            "accuracy" : 57,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":5005,
+            "name" : "桑约之履·玄",
+            "type" : "脚部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 57,
+            "accuracy" : 133,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":5006,
+            "name" : "桑约之首·玄",
+            "type" : "头部",
+            "school" : "焚香",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 61,
+            "penetration" : 0,
+            "accuracy" : 143,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":5007,
+            "name" : "桑约之首·玄",
+            "type" : "头部",
+            "school" : "焚香",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 143,
+            "accuracy" : 61,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":5008,
+            "name" : "桑约之襟·玄",
+            "type" : "上身",
+            "school" : "焚香",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 90,
+            "penetration" : 0,
+            "accuracy" : 210,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":5009,
+            "name" : "桑约之襟·玄",
+            "type" : "上身",
+            "school" : "焚香",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 210,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 90,
+            "extra_effect" : "离"
+        },
+
+
+        {
+            "id":5010,
+            "name" : "沧海云垂匣",
+            "type" : "武器",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 188,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 126
+        },
+
+        {
+            "id":5011,
+            "name" : "沧海云垂袍",
+            "type" : "上身",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 550,
+            "critical" : 109,
+            "recharge" : 163,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id":5012,
+            "name" : "沧海云垂冠",
+            "type" : "头部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 114,
+            "recharge" : 0,
+            "specialize" : 76,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id":5013,
+            "name" : "沧海云垂带",
+            "type" : "腰部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 88, 
+            "recharge" : 0,
+            "specialize" :0,
+            "penetration" :0,
+            "accuracy" : 58
+        },
+
+        {
+            "id":5014,
+            "name" : "沧海云垂履",
+            "type" : "脚部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 144,
+            "recharge" :0,
+            "specialize" :76, 
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id":5015,
+            "name" : "寒月烟涛匣",
+            "type" : "武器",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" :0,
+            "recharge" : 0,
+            "specialize" : 126,
+            "penetration" : 188,
+            "accuracy" : 0
+        },
+
+        {
+            "id":5016,
+            "name" : "寒月烟涛袍",
+            "type" : "上身",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 550,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 163,
+            "penetration" : 109,
+            "accuracy" : 0
+        },
+
+        {
+            "id":5017,
+            "name" : "寒月烟涛冠",
+            "type" : "头部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 114,
+            "penetration" : 0,
+            "accuracy" : 76
+        },
+
+        {
+            "id":5018,
+            "name" : "寒月烟涛带",
+            "type" : "腰部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 88,
+            "accuracy" : 58
+        },
+
+        {
+            "id":5019,
+            "name" : "寒月烟涛履",
+            "type" : "脚部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 114,
+            "penetration" : 76,
+            "accuracy" : 0
+        },
+
+        {
+            "id":5020,
+            "name" : "赤蝶幽花匣",
+            "type" : "武器",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" :0,
+            "recharge" : 94,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 220
+        },
+        
+        {
+            "id":5021,
+            "name" : "风煞凝岚匣",
+            "type" : "武器",
+            "school" : "焚香",
+            "quality" : 315,
+            "primary_attributes" : 682,
+            "critical" : 241,
+            "recharge" : 0,
+            "specialize" : 103,
+            "penetration" : 0,
+            "accuracy" : 0
+    
+        },
+
+        {
+            "id":5022,
+            "name" : "夜影魅魂冠",
+            "type" : "手部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 61,
+            "penetration" : 143,
+            "accuracy" : 0
+        },
+
+        {
+            "id":5023,
+            "name" : "夜影魅魂腕",
+            "type" : "手部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 43,
+            "recharge" : 0,
+            "specialize" : 103,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id":5024,
+            "name" : "炼血破天带",
+            "type" : "腰部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 103,
+            "penetration" : 0,
+            "accuracy" : 43
+        },
+
+        {
+            "id":5025,
+            "name" : "踏血裂地履",
+            "type" : "脚部",
+            "school" : "焚香",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 57,
+            "recharge" : 133,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id":5026,
+            "name" : "九幽锋寒",
+            "type" : "武器",
+            "school" : "焚香",
+            "quality" : 315,
+            "primary_attributes"  : 682,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 241,
+            "penetration" : 0,
+            "accuracy" :103,
+            "extra_effect" : "天魁"
+        },
+
+        {
+            "id":5027,
+            "name" : "幽冥噬魂衫",
+            "type" : "上身",
+            "school" : "焚香",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 210,
+            "recharge" : 0,
+            "specialize" : 90,
+            "penetration" : 0,
+            "accuracy" : 0
+        }
+    ]
+}

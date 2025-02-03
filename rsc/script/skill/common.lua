@@ -1,0 +1,16 @@
+ATTRIBUTE_TYPE = 
+{
+    USE_SPEC = 1,
+    INCREACE_SKILL_DMG = 2
+}
+
+SKILL_TYPE = 
+{
+    NORMAL = 1,
+    THUNDER = 2,
+}
+
+BUFF_EFFECT = 
+{
+    ADD_ATTACK_PERCENT = 1,
+}

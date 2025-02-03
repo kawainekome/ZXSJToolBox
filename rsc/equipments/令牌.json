@@ -1,0 +1,101 @@
+{
+    "equipments" : [
+        {
+            "id" : 20000,
+            "name" : "山河执掌",
+            "type" : "令牌",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 0,
+            "recharge" : 161,
+            "specialize" : 69,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 20001,
+            "name" : "幽煞圣令",
+            "type" : "令牌",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 147,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 63,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 20002,
+            "name" : "蝶游梦迟",
+            "type" : "令牌",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 0,
+            "recharge" : 147,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 63
+        },
+
+        {
+            "id" : 20003,
+            "name" : "观心合意",
+            "type" : "令牌",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 147,
+            "recharge" : 0,
+            "specialize" : 63,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 20004,
+            "name" : "冥藤锁魂",
+            "type" : "令牌",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 161,
+            "penetration" : 69,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 20005,
+            "name" : "绝水封命",
+            "type" : "令牌",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 161,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 69
+        },
+
+        {
+            "id" : 20006,
+            "name" : "天发杀机",
+            "type" : "令牌",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 0,
+            "recharge" : 126,
+            "specialize" : 0,
+            "penetration" : 84,
+            "accuracy" : 0
+        }
+    ]
+}

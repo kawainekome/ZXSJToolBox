@@ -1,0 +1,412 @@
+{
+    "equipments" : [
+        {
+            "id" : 3000,
+            "name" : "桑约之佩·玄",
+            "type" : "手部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 43,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 103,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 3001,
+            "name" : "桑约之佩·玄",
+            "type" : "手部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 103,
+            "recharge" : 0,
+            "specialize" : 43,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 3002,
+            "name" : "桑约之系·玄",
+            "type" : "腰部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 103,
+            "recharge" : 0,
+            "specialize" : 43,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 3003,
+            "name" : "桑约之系·玄",
+            "type" : "腰部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 103,
+            "specialize" : 43,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 3004,
+            "name" : "桑约之履·玄",
+            "type" : "脚部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 133,
+            "penetration" : 0,
+            "accuracy" : 57,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 3005,
+            "name" : "桑约之履·玄",
+            "type" : "脚部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 57,
+            "recharge" : 0,
+            "specialize" : 133,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 3006,
+            "name" : "桑约之首·玄",
+            "type" : "头部",
+            "school" : "灵汐",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 61,
+            "penetration" : 0,
+            "accuracy" : 143,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 3007,
+            "name" : "桑约之首·玄",
+            "type" : "头部",
+            "school" : "灵汐",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 143,
+            "specialize" : 61,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 3008,
+            "name" : "桑约之襟·玄",
+            "type" : "上身",
+            "school" : "灵汐",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 210,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 90,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 3009,
+            "name" : "桑约之襟·玄",
+            "type" : "上身",
+            "school" : "灵汐",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 90,
+            "recharge" : 0,
+            "specialize" : 210,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+
+        {
+            "id" : 3010,
+            "name" : "沧海云垂镜",
+            "type" : "武器",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 188,
+            "penetration" : 0,
+            "accuracy" : 126
+        },
+
+        {
+            "id" : 3011,
+            "name" : "沧海云垂袍",
+            "type" : "上身",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 550,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 163,
+            "penetration" : 0,
+            "accuracy" : 109
+        },
+
+        {
+            "id" : 3012,
+            "name" : "沧海云垂冠",
+            "type" : "头部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 114,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 76
+        },
+
+        {
+            "id" : 3013,
+            "name" : "沧海云垂带",
+            "type" : "腰部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 88,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 58
+        },
+
+        {
+            "id" : 3014,
+            "name" : "沧海云垂履",
+            "type" : "脚部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 114,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 76
+        },
+
+        {
+            "id" : 3015,
+            "name" : "寒月烟涛镜",
+            "type" : "武器",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 188,
+            "recharge" : 126,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 3016,
+            "name" : "寒月烟涛袍",
+            "type" : "上身",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 550,
+            "critical" : 163,
+            "recharge" : 109,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 3017,
+            "name" : "寒月烟涛冠",
+            "type" : "头部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 114,
+            "recharge" : 0,
+            "specialize" : 76,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 3018,
+            "name" : "寒月烟涛带",
+            "type" : "腰部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 58,
+            "recharge" : 88,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 3019,
+            "name" : "寒月烟涛履",
+            "type" : "脚部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 114,
+            "specialize" : 76,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 3020,
+            "name" : "赤蝶幽花镜",
+            "type" : "武器",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 94,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 220
+        },
+        
+        {
+            "id" : 3021,
+            "name" : "风煞凝岚镜",
+            "type" : "武器",
+            "school" : "灵汐",
+            "quality" : 315,
+            "primary_attributes" : 682,
+            "critical" : 103,
+            "recharge" : 0,
+            "specialize" : 241,
+            "penetration" : 0,
+            "accuracy" : 0
+    
+        },
+
+       
+        {
+            "id" : 3022,
+            "name" : "夜影魅魂臂",
+            "type" : "手部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 43,
+            "recharge" : 103,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 3023,
+            "name" : "炼血破天带",
+            "type" : "腰部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 103,
+            "penetration" : 0,
+            "accuracy" : 43
+        },
+
+        {
+            "id" : 3024,
+            "name" : "踏血裂地履",
+            "type" : "脚部",
+            "school" : "灵汐",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 133,
+            "recharge" : 57,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 3025,
+            "name" : "九幽锋寒",
+            "type" : "武器",
+            "school" : "灵汐",
+            "quality" : 315,
+            "primary_attributes"  : 682,
+            "critical" : 241,
+            "recharge" : 0,
+            "specialize" : 103,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "天魁"
+        },
+
+        {
+            "id" : 3026,
+            "name" : "幽冥噬魂袍",
+            "type" : "上身",
+            "school" : "灵汐",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 0,
+            "recharge" : 90,
+            "specialize" : 210,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+        
+        {
+            "id" : 3027,
+            "name" : "裂峰断水冠",
+            "type" : "头部",
+            "school" : "灵汐",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 143,
+            "specialize" : 61,
+            "penetration" : 0,
+            "accuracy" : 0
+        }
+
+    
+           
+    ]
+}

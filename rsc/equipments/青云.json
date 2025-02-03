@@ -1,0 +1,406 @@
+{
+    "equipments" : [
+        {
+            "id" : 1000,
+            "name" : "桑约之佩·玄",
+            "type" : "手部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 103,
+            "accuracy" : 43,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 1001,
+            "name" : "桑约之佩·玄",
+            "type" : "手部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 103,
+            "specialize" : 43,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 1002,
+            "name" : "桑约之系·玄",
+            "type" : "腰部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 43,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 103,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 1003,
+            "name" : "桑约之系·玄",
+            "type" : "腰部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 43,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 103,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 1004,
+            "name" : "桑约之履·玄",
+            "type" : "脚部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 133,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 57,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 1005,
+            "name" : "桑约之履·玄",
+            "type" : "脚部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 133,
+            "penetration" : 0,
+            "accuracy" : 57,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 1006,
+            "name" : "桑约之首·玄",
+            "type" : "头部",
+            "school" : "青云",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 61,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 143,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 1007,
+            "name" : "桑约之首·玄",
+            "type" : "头部",
+            "school" : "青云",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 61,
+            "specialize" : 143,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 1008,
+            "name" : "桑约之襟·玄",
+            "type" : "上身",
+            "school" : "青云",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 90,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 210,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id" : 1009,
+            "name" : "桑约之襟·玄",
+            "type" : "上身",
+            "school" : "青云",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 90,
+            "penetration" : 0,
+            "accuracy" : 210,
+            "extra_effect" : "离"
+        },
+
+
+        {
+            "id" : 1010,
+            "name" : "沧海云垂剑",
+            "type" : "武器",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 188,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 126
+        },
+
+        {
+            "id" : 1011,
+            "name" : "沧海云垂袍",
+            "type" : "上身",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 550,
+            "critical" : 163,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 109
+        },
+
+        {
+            "id" : 1012,
+            "name" : "沧海云垂冠",
+            "type" : "头部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 114,
+            "accuracy" : 76
+        },
+
+        {
+            "id" : 1013,
+            "name" : "沧海云垂带",
+            "type" : "腰部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 58,
+            "recharge" : 0,
+            "specialize" : 88,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 1014,
+            "name" : "沧海云垂履",
+            "type" : "脚部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 114,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 76
+        },
+
+        {
+            "id" : 1015,
+            "name" : "寒月烟涛剑",
+            "type" : "武器",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 0,
+            "recharge" : 188,
+            "specialize" : 126,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 1016,
+            "name" : "寒月烟涛袍",
+            "type" : "上身",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 550,
+            "critical" : 109,
+            "recharge" : 163,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 1017,
+            "name" : "寒月烟涛冠",
+            "type" : "头部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 114,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 76
+        },
+
+        {
+            "id" : 1018,
+            "name" : "寒月烟涛带",
+            "type" : "腰部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 88,
+            "specialize" : 58,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 1019,
+            "name" : "寒月烟涛履",
+            "type" : "脚部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 114,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 76
+        },
+
+        {
+            "id" : 1020,
+            "name" : "赤蝶幽花剑",
+            "type" : "武器",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 0,
+            "recharge" : 94,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 220
+        },
+
+        {
+            "id" : 1021,
+            "name" : "风煞凝岚剑",
+            "type" : "武器",
+            "school" : "青云",
+            "quality" : 315,
+            "primary_attributes" : 682,
+            "critical" : 103,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 241,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 1022,
+            "name" : "裂风断水冠",
+            "type" : "头部",
+            "school" : "青云",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 143,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 61,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 1023,
+            "name" : "夜影魅魂腕",
+            "type" : "手部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 143,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 61,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 1024,
+            "name" : "炼血破天带",
+            "type" : "腰部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 103,
+            "penetration" : 0,
+            "accuracy" : 43
+        },
+
+        {
+            "id" : 1025,
+            "name" : "踏血裂地履",
+            "type" : "脚部",
+            "school" : "青云",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 133,
+            "recharge" : 0,
+            "specialize" : 57,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 1026,
+            "name" : "九幽锋寒",
+            "type" : "武器",
+            "school" : "青云",
+            "quality" : 315,
+            "primary_attributes" : 682,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 103,
+            "penetration" : 0,
+            "accuracy" : 241
+        },
+
+        {
+            "id" : 1027,
+            "name" : "幽冥噬魂袍",
+            "type" : "上身",
+            "school" : "青云",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 0,
+            "recharge" : 210,
+            "specialize" : 90,
+            "penetration" : 0,
+            "accuracy" : 0
+        }
+    ]
+}

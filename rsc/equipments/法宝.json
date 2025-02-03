@@ -1,0 +1,73 @@
+{
+    "equipments" : [
+        {
+            "id" : 1,
+            "name" : "幽魂爪",
+            "type" : "法宝",
+            "school" : "无限制",
+            "quality" : 0,
+            "primary_attributes" : 0,
+            "critical" : 78,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 2,
+            "name" : "八卦石",
+            "type" : "法宝",
+            "school" : "无限制",
+            "quality" : 0,
+            "primary_attributes" : 0,
+            "critical" : 0,
+            "recharge" : 117,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 3,
+            "name" : "蜚蛟残心",
+            "type" : "法宝",
+            "school" : "无限制",
+            "quality" : 0,
+            "primary_attributes" : 0,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 117,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 4,
+            "name" : "山河扇",
+            "type" : "法宝",
+            "school" : "无限制",
+            "quality" : 0,
+            "primary_attributes" : 0,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 78,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 5,
+            "name" : "玄火旗",
+            "type" : "法宝",
+            "school" : "无限制",
+            "quality" : 0,
+            "primary_attributes" : 0,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 78
+        }
+    ]
+}

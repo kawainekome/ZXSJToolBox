@@ -1,0 +1,408 @@
+{
+    "equipments" : [
+        {
+            "id":4000,
+            "name" : "桑约之佩·玄",
+            "type" : "手部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 43,
+            "accuracy" : 103,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":4001,
+            "name" : "桑约之佩·玄",
+            "type" : "手部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 103,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 43,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":4002,
+            "name" : "桑约之系·玄",
+            "type" : "腰部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 43,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 103,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":4003,
+            "name" : "桑约之系·玄",
+            "type" : "腰部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 103,
+            "recharge" : 0,
+            "specialize" : 43,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":4004,
+            "name" : "桑约之履·玄",
+            "type" : "脚部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 133,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 57,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":4005,
+            "name" : "桑约之履·玄",
+            "type" : "脚部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 57,
+            "penetration" : 0,
+            "accuracy" : 133,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":4006,
+            "name" : "桑约之首·玄",
+            "type" : "头部",
+            "school" : "合欢",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 61,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 143,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":4007,
+            "name" : "桑约之首·玄",
+            "type" : "头部",
+            "school" : "合欢",
+            "quality" : 315,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 143,
+            "penetration" : 0,
+            "accuracy" : 61,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":4008,
+            "name" : "桑约之襟·玄",
+            "type" : "上身",
+            "school" : "合欢",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 90,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 210,
+            "extra_effect" : "离"
+        },
+
+        {
+            "id":4009,
+            "name" : "桑约之襟·玄",
+            "type" : "上身",
+            "school" : "合欢",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 210,
+            "accuracy" : 90,
+            "extra_effect" : "离"
+        },
+
+
+        {
+            "id":4010,
+            "name" : "沧海云垂环",
+            "type" : "武器",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 188,
+            "accuracy" : 126
+        },
+
+        {
+            "id":4011,
+            "name" : "沧海云垂衫",
+            "type" : "上身",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 550,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 109,
+            "accuracy" : 163
+        },
+
+        {
+            "id":4012,
+            "name" : "沧海云垂盔",
+            "type" : "头部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 114,
+            "penetration" : 76,
+            "accuracy" : 0
+        },
+
+        {
+            "id":4013,
+            "name" : "沧海云垂带",
+            "type" : "腰部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 58,
+            "penetration" : 88,
+            "accuracy" : 0
+        },
+
+        {
+            "id":4014,
+            "name" : "沧海云垂靴",
+            "type" : "脚部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 0,
+            "recharge" : 76,
+            "specialize" : 114,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id":4015,
+            "name" : "寒月烟涛环",
+            "type" : "武器",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 126,
+            "recharge" : 0,
+            "specialize" : 188,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id":4016,
+            "name" : "寒月烟涛衫",
+            "type" : "上身",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 550,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 163,
+            "penetration" : 0,
+            "accuracy" : 109
+        },
+
+        {
+            "id":4017,
+            "name" : "寒月烟涛盔",
+            "type" : "头部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 76,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 114
+        },
+
+        {
+            "id":4018,
+            "name" : "寒月烟涛带",
+            "type" : "腰部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 88,
+            "penetration" : 0,
+            "accuracy" : 58
+        },
+
+        {
+            "id":4019,
+            "name" : "寒月烟涛靴",
+            "type" : "脚部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 114,
+            "recharge" : 0,
+            "specialize" : 76,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id":4020,
+            "name" : "赤蝶幽花环",
+            "type" : "武器",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 623,
+            "critical" : 94,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 220
+        },
+        
+        {
+            "id":4021,
+            "name" : "风煞凝岚环",
+            "type" : "武器",
+            "school" : "合欢",
+            "quality" : 315,
+            "primary_attributes" : 682,
+            "critical" : 103,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 241,
+            "accuracy" : 0
+    
+        },
+
+        {
+            "id":4022,
+            "name" : "夜影魅魂盔",
+            "type" : "手部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 61,
+            "recharge" : 0,
+            "specialize" : 143,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id":4023,
+            "name" : "夜影魅魂臂",
+            "type" : "手部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 330,
+            "critical" : 0,
+            "recharge" : 103,
+            "specialize" : 0,
+            "penetration" : 43,
+            "accuracy" : 0
+        },
+
+        {
+            "id":4024,
+            "name" : "炼血破天带",
+            "type" : "腰部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 441,
+            "critical" : 0,
+            "recharge" : 103,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 43
+        },
+
+        {
+            "id":4025,
+            "name" : "踏血裂地靴",
+            "type" : "脚部",
+            "school" : "合欢",
+            "quality" : 305,
+            "primary_attributes" : 403,
+            "critical" : 57,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 133,
+            "accuracy" : 0
+        },
+
+        {
+            "id":4026,
+            "name" : "九幽锋寒",
+            "type" : "武器",
+            "school" : "合欢",
+            "quality" : 315,
+            "primary_attributes"  : 682,
+            "critical" : 241,
+            "recharge" : 0,
+            "specialize" : 103,
+            "penetration" : 0,
+            "accuracy" : 0,
+            "extra_effect" : "天魁"
+        },
+
+        {
+            "id":4027,
+            "name" : "幽冥噬魂衫",
+            "type" : "上身",
+            "school" : "合欢",
+            "quality" : 315,
+            "primary_attributes" : 602,
+            "critical" : 210,
+            "recharge" : 90,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 0
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "equipments" : [
+        {
+            "id" : 30000,
+            "name" : "天地封印",
+            "type" : "法印",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 69,
+            "accuracy" : 161
+        },
+
+        {
+            "id" : 30001,
+            "name" : "幽慈玉印",
+            "type" : "法印",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 0,
+            "recharge" : 0,
+            "specialize" : 147,
+            "penetration" : 0,
+            "accuracy" : 63
+        },
+
+        {
+            "id" : 30002,
+            "name" : "芳魂漫随",
+            "type" : "法印",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 0,
+            "recharge" : 147,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 63
+        },
+
+        {
+            "id" : 30003,
+            "name" : "魔眼慑世",
+            "type" : "法印",
+            "school" : "无限制",
+            "quality" : 305,
+            "primary_attributes" : 256,
+            "critical" : 0,
+            "recharge" : 63,
+            "specialize" : 0,
+            "penetration" : 147,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 30004,
+            "name" : "亡魂死印",
+            "type" : "法印",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 161,
+            "recharge" : 0,
+            "specialize" : 0,
+            "penetration" : 0,
+            "accuracy" : 69
+        },
+
+        {
+            "id" : 30005,
+            "name" : "碧眼噬心",
+            "type" : "法印",
+            "school" : "无限制",
+            "quality" : 315,
+            "primary_attributes" : 281,
+            "critical" : 0,
+            "recharge" : 69,
+            "specialize" : 161,
+            "penetration" : 0,
+            "accuracy" : 0
+        },
+
+        {
+            "id" : 30006,
+            "name" : "稀世·顾彼岸",
+            "type" : "法印",
+            "school" : "无限制",
+            "quality" : 295,
+            "primary_attributes" : 0,
+            "critical" : 190,
+            "recharge" : 0,
+            "specialize" : 285,
+            "penetration" : 0,
+            "accuracy" : 0
+        }
+    ]
+}
