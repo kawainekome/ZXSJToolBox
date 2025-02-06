@@ -1,9 +1,16 @@
 {
     "version" : "0.0.1-beta",
-    "rscVersion" : "20250206",
-    "path" : "https://github.com/kawainekome/ZXSJToolBox/blob/main/ZXSJToolBox.exe",
+    "rscVersion" : "20250207",
+    "path" : "https://github.com/kawainekome/ZXSJToolBox/releases/download/0.0.2/ZXSJToolBox.exe",
     "rsc" : 
     {
+        "base" : 
+        {
+            "name" : "基础属性.json",
+            "path" : "https://raw.githubusercontent.com/kawainekome/ZXSJToolBox/refs/heads/main/rsc/base/character_base.json",
+            "md5" : ""
+        },
+
         "equipments" : [
             {
                 "name" : "青云.json",
