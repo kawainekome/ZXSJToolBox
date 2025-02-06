@@ -322,14 +322,14 @@
 
         {
             "id":4022,
-            "name" : "夜影魅魂盔",
-            "type" : "手部",
+            "name" : "裂风断水盔",
+            "type" : "头部",
             "school" : "合欢",
-            "quality" : 305,
+            "quality" : 315,
             "primary_attributes" : 330,
-            "critical" : 61,
+            "critical" : 143,
             "recharge" : 0,
-            "specialize" : 143,
+            "specialize" : 61,
             "penetration" : 0,
             "accuracy" : 0
         },
